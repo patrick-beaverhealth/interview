@@ -1,0 +1,9 @@
+{
+  "name": "interview-jugs",
+  "scripts": {
+    "start": "npx ts-node index.ts"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
